@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OOTD</string>
+    <string name="title_activity_utama">ActivityUtama</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Maps</string>
+    <string name="title_notifications">Logout</string>
+    <string name="api_key">AIzaSyA5b2nXhftu1MuBab6PRnSib7_GqmGVwno</string>
+</resources>

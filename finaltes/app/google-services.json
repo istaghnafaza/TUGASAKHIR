@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63245267533",
+    "firebase_url": "https://finaltes-55c8d.firebaseio.com",
+    "project_id": "finaltes-55c8d",
+    "storage_bucket": "finaltes-55c8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63245267533:android:d8fa999de771524a",
+        "android_client_info": {
+          "package_name": "com.example.faza.finaltes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63245267533-mgdjdcn3tepg3p7dgfjiqhk8qk7ja56v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faza.finaltes",
+            "certificate_hash": "233c39ecdab51bf348f87e1013be4947e4fb26d0"
+          }
+        },
+        {
+          "client_id": "63245267533-b5haqsot5m2ngnetoudk16ojf23lthhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl6Rx5Pk-pJBUx9HC-l9GLIWUYX2OP4WY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63245267533-b5haqsot5m2ngnetoudk16ojf23lthhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
